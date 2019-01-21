@@ -18,7 +18,6 @@ en terminal
 cd C:\Python_scripts
 call reprosend_60s.bat año mes dia
 
-
 Server Scripts:
 Estos archivos van en el servidor para leer los datos L1 (promedios cada 5 min) y generar los gráficos de las últimas 24 h y los archiivos diarios *.png en el servidor de la RUOA.
 
