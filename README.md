@@ -6,6 +6,7 @@ Para iniciar el programa que promedia 5 min y envía los datos al servidor, dar 
 start.bat
 
 ===================================
+
 Para enviar un archivo
 reprosend.bat año mes dia
 
@@ -13,6 +14,7 @@ Ejemplo:
 call reprosend.bat 2014 01 06
 
 ===================================
+
 Para reprocesar cada minuto
 en terminal
 cd C:\Python_scripts
